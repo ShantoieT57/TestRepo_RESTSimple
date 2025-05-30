@@ -1,0 +1,16 @@
+{
+  "Id": "o3SW",
+  "Name": "MyInput",
+  "Properties": [
+    {
+      "Id": "Qda5",
+      "Name": "Word1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Gkpt",
+      "Name": "Word2",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Generated:C_XytP.Operations.GetHello.Result",
+      "ValueUsage": "RuntimeRead",
+      "Value": "{\"ResponseBody\":\"This is a test\"}",
+      "ValueType": "String"
+    }
+  ],
+  "RuntimeCharacteristics": {
+    "IsTerminating": true,
+    "ExecutionPathExecution": "ZeroOrMore"
+  }
+}
