@@ -13,6 +13,7 @@
   "Items": [
     "Function.function",
     "SimpleRESTHost.service",
-    "MyInput.type"
+    "MyInput.type",
+    "MyNewFunction.function"
   ]
 }
